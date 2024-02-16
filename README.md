@@ -1,0 +1,2 @@
+# Dog-Breed-Classifier-and-Information-Provider-web-using-streamlit-and-CNN
+These is web app developed using a python framework called streamlit which utilizes the dog breed image classifier model which I have trained it using CNN. The web app takes input image data either using web camera or by allowing the users to upload image files then the web use the model to  make prediction and classification and provide info.
